@@ -5,7 +5,7 @@
 <p align="center">Collection of data science materials to help anyone kickstart their data journey without stress</p>
 
 <p align="center">
-  <a href="#python">Python</a> | <a href="#excel">Excel</a> | <a href="#data-science">Data Science</a> | <a href="#R">R</a> | <a href="#ai">Artificial Intelligence</a>
+  <a href="#python">Python</a> | <a href="#excel">Excel</a> | <a href="#data-science">Data Science</a> | <a href="#R">R</a> | <a href="#ai">Artificial Intelligence</a> |  <a href="#Data Analysis">Data Analysis</a>
 </p>
 
 To contribute, follow the template below
@@ -25,10 +25,11 @@ To contribute, follow the template below
 
 - [Learn Microsoft Excel](https://www.coursera.org/learn/excel-essentials)
 
-## <a name="Learning Path"> </a>Learning Path
-
-
 
 ## <a name="data-science"> </a>Data Science
 
 - [Introduction to Data Science Specialization(IBM)](https://www.coursera.org/specializations/introduction-data-science)
+  
+
+## <a name="Data Analysis"> Data Analysis </a> 
+- [Data Analysis Introduction](https://www.coursera.org/learn/introduction-to-data-analytics)
