@@ -34,5 +34,5 @@ To contribute, follow the template below
 ## <a name="Data Analysis"> Data Analysis </a> 
 - [Data Analysis Introduction](https://www.coursera.org/learn/introduction-to-data-analytics)
 
-### <a name="Sql"> SQL for Data Analysis</a>
-- [SQL FOR DATA ANALYSIS](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+#### <a name="Sql"> SQL for Data Analysis</a>
+- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
